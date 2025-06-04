@@ -1,0 +1,77 @@
+[
+  {
+  "name": "Rich Dad Poor Dad",
+  "description": "Robert Kiyosaki’s book explains the fundamentals of financial literacy by comparing the mindsets of the rich and the poor.",
+  "quantity": 1,
+  "price": 7800,
+  "discount": 10,
+  "final_price": 7020,
+  "rating": 4.7,
+  "images": [
+    "https://images-na.ssl-images-amazon.com/images/I/81bsw6fnUiL.jpg"
+  ]
+},
+
+  {
+    "name": "Atomic Habits",
+    "description": "James Clear’s 'Atomic Habits' reveals how small changes can lead to remarkable results. The book offers practical strategies to break bad habits and form good ones.",
+    "quantity": 1,
+    "price": 5900,
+    "discount": 0,
+    "rating": 4.9,
+    "images": [
+      "/images/atomichabbits.jpg",
+      "./images/atomic.jpg"
+    ]
+  },
+  {
+    "name": "Fahrenheit 451",
+    "description": "Ray Bradbury’s dystopian novel 'Fahrenheit 451' portrays a future society where books are banned and burned to suppress knowledge and freedom of thought.",
+    "quantity": 1,
+    "price": 6800,
+    "discount": 5,
+    "rating": 4.8,
+    "images": [
+      "/images/451-2.jpg",
+      "/images/451.jpg"
+    ]
+  },
+  {
+    "name": "The Miracle Morning",
+    "description": "Hal Elrod’s 'The Miracle Morning' introduces a morning routine designed to transform your life before 8AM, increasing productivity and personal growth.",
+    "quantity": 1,
+    "price": 6200,
+    "discount": 8,
+    "rating": 4.7,
+    "images": ["/images/miracle.jpg", "/images/miraclemorning.jpg"]
+
+  },
+  
+  {
+    "name": "Deep Work",
+    "description": "Deep work, as outlined by Cal Newport in his book Deep Work: Rules for Focused Success in a Distracted World, refers to the practice of engaging in intense, uninterrupted cognitive work that demands deep concentration and creativity",
+    "quantity": 1,
+    "price": 7500,
+    "discount": 10,
+    "final_price": 6750,
+    "rating": 4.6,
+    "images": [
+      "/images/deepwork.jpg",
+      "/images/deepwork2.jpg"
+    ]
+  },
+  {
+  "name": "The Alchemist",
+  "description": "Paulo Coelho’s 'The Alchemist' is a philosophical novel about a young shepherd named Santiago who follows his dreams to discover his personal legend.",
+  "quantity": 1,
+  "price": 7200,
+  "discount": 10,
+  "final_price": 6480,
+  "rating": 4.8,
+  "images": [
+    "https://images-na.ssl-images-amazon.com/images/I/71aFt4+OTOL.jpg"
+  ]
+}
+
+
+]
